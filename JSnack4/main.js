@@ -18,3 +18,5 @@ do{
 } while(array1.length < array2.length || array1.length > array2.length); 
 
 console.log('Sei fuori');
+console.log(array1);
+console.log(array2);
