@@ -1,6 +1,6 @@
 'use strict'
 
-let array1 = ["Gino", "Pippo"];
+let array1 = ["Gino", "Pippo"   ];
 let array2 = ["Sorbillo", "Bastianich", "Munchen", "Salvatiello"];
 let addArray = '';
 
